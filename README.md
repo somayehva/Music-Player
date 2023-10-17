@@ -4,13 +4,6 @@ Create a visually appealing music player that allows users to play music stored 
 
 ![Music Player Preview](https://github.com/somayehva/Music-Player/blob/main/Music%20Player.png)
 
-## Table of Contents
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Project Specifications](#project-specifications)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -31,24 +24,6 @@ You can try the live demo [here](link-to-your-live-demo).
 - Allow users to switch between songs in the playlist.
 - Display a progress bar to show the current position in the song.
 
-## How to Use
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/your-username/music-player.git
-
-   
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-
-- Fork the repository.
-- Create a new branch for your feature or bug fix.
-- Make your changes and commit them.
-- Push your changes to your fork.
-- Submit a pull request.
-- Please make sure to follow the code of conduct.
 
 ## License
 
