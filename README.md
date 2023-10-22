@@ -7,7 +7,7 @@ Create a visually appealing music player that allows users to play music stored 
 
 ## Demo
 
-You can try the live demo [here](link-to-your-live-demo).
+You can try the live demo [here](http://somayeh.me/music-player/).
 
 ## Technologies Used
 
@@ -27,4 +27,4 @@ You can try the live demo [here](link-to-your-live-demo).
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
